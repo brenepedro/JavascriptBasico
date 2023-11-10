@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+#cpfInput {
+    padding: 5px;
+    font-size: 16px;
+}
+#validarbutton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: grey;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#validarbutton:hover {
+    background-color: black;
+    color: gold;
+}
